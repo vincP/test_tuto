@@ -11,7 +11,7 @@ if(isset($_GET['section']) AND $_GET['section'] == 'inscription')
 {
 	include_once('Controler/inscription/inscription.php');
 
-}okok
+}okokokikokii
 
 if(isset($_GET['section']) AND $_GET['section'] == 'magasin')
 {
