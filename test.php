@@ -10,7 +10,9 @@ if (!isset($_GET['section']) OR $_GET['section'] == 'connexion')
 if(isset($_GET['section']) AND $_GET['section'] == 'inscription')
 {
 	include_once('Controler/inscription/inscription.php');
+
 }oulala
+
 
 if(isset($_GET['section']) AND $_GET['section'] == 'magasin')
 {
